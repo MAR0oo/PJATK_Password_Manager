@@ -1,0 +1,11 @@
+.root{
+    -fx-background-color: #B8B8B8;
+}
+.label{
+    -fx-font-size: 20;
+    -fx-font-family: "Lucida Console";
+    -fx-alignment: center;
+}
+#wrongLogin{
+    -fx-alignment: center;
+}

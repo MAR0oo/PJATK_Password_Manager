@@ -1,0 +1,12 @@
+.root{
+    -fx-background-color: #F0F8FF;
+}
+.label{
+    -fx-font-size: 12;
+    -fx-font-family: "Lucida Console";
+    -fx-alignment: center;
+}
+#tophbox{
+    -fx-alignment: center;
+}
+
